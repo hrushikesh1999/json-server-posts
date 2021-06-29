@@ -1,0 +1,139 @@
+{
+  "channels": [
+    {
+      "nameOfChannel": "#favs",
+      "userId": "100590380763839918719",
+      "name": "Hrushi Kesh",
+      "id": 4,
+      "#abc": ""
+    },
+    {
+      "nameOfChannel": "#pqrs",
+      "userId": "100590380763839918719",
+      "name": "Hrushi Kesh",
+      "id": 5
+    },
+    {
+      "nameOfChannel": "#Education",
+      "userId": "100267529045755791812",
+      "name": "HRUSHIKESH A",
+      "id": 6
+    },
+    {
+      "nameOfChannel": "#Science",
+      "userId": "100267529045755791812",
+      "name": "HRUSHIKESH A",
+      "id": 7
+    },
+    {
+      "nameOfChannel": "#Health",
+      "userId": "100267529045755791812",
+      "name": "HRUSHIKESH A",
+      "id": 8
+    },
+    {
+      "nameOfChannel": "#xyz",
+      "userId": "100590380763839918719",
+      "name": "Hrushi Kesh",
+      "id": 20
+    },
+    {
+      "nameOfChannel": "#movies",
+      "userId": "100590380763839918719",
+      "name": "Hrushi Kesh",
+      "id": 22
+    },
+    {
+      "nameOfChannel": "#hello",
+      "userId": "100267529045755791812",
+      "name": "HRUSHIKESH A",
+      "id": 23
+    }
+  ],
+  "posts": [
+    {
+      "channelId": 23,
+      "description": "xthn",
+      "name": "Hrushi Kesh",
+      "id": 8
+    },
+    {
+      "channelId": 23,
+      "description": "xthn",
+      "name": "Hrushi Kesh",
+      "id": 9
+    },
+    {
+      "channelId": 23,
+      "description": "xthn",
+      "name": "Hrushi Kesh",
+      "id": 10
+    },
+    {
+      "channelId": 23,
+      "description": "xthn",
+      "name": "Hrushi Kesh",
+      "id": 11
+    },
+    {
+      "channelId": 23,
+      "description": "xthn",
+      "name": "Hrushi Kesh",
+      "id": 12
+    },
+    {
+      "channelId": 5,
+      "description": "dghxhgdxd",
+      "name": "Hrushi Kesh",
+      "id": 19
+    },
+    {
+      "channelId": 5,
+      "description": "dghxhgdxd",
+      "name": "Hrushi Kesh",
+      "id": 20
+    },
+    {
+      "channelId": 5,
+      "description": "dghxhgdxd",
+      "name": "Hrushi Kesh",
+      "id": 21
+    },
+    {
+      "channelId": 5,
+      "description": "dghxhgdxd",
+      "name": "Hrushi Kesh",
+      "id": 22
+    },
+    {
+      "channelId": 5,
+      "description": "dghxhgdxd",
+      "name": "Hrushi Kesh",
+      "id": 23
+    },
+    {
+      "channelId": 4,
+      "description": "xdgfzdfgzdxfb",
+      "name": "Hrushi Kesh",
+      "id": 24
+    },
+    {
+      "channelId": 4,
+      "description": "xdgfzdfgzdxfb",
+      "name": "Hrushi Kesh",
+      "id": 25
+    },
+    {
+      "channelId": 4,
+      "description": "xdgfzdfgzdxfb",
+      "name": "Hrushi Kesh",
+      "id": 26
+    },
+    {
+      "channelId": 4,
+      "description": "xdgfzdfgzdxfb",
+      "name": "Hrushi Kesh",
+      "id": 27
+    }
+  ]
+}
